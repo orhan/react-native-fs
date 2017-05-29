@@ -33,6 +33,7 @@ import java.security.MessageDigest;
 import java.util.HashMap;
 import java.util.Map;
 
+import android.content.Context;
 import android.net.Uri;
 
 public class RNFSManager extends ReactContextBaseJavaModule {
